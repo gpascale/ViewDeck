@@ -496,7 +496,7 @@ __typeof__(h) __h = (h);                                    \
 
 #pragma mark - View lifecycle
 
-- (void)loadView
+- (void)ew
 {
     _offset = 0;
     _viewAppeared = NO;
